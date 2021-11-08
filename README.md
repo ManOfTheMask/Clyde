@@ -1,2 +1,2 @@
-# Python-Projects
-Random Python Projects
+# Clyde
+Clyde is a bot written in python and json
